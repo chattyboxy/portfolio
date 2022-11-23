@@ -7,7 +7,7 @@ Hey there! My Name is Jack, and I'm a YouTuber, Discord Bot Developer, and Moder
 ## Details:
 
 
-_These are my social details, in case you need to check something in a server, etc..._
+_These are my social details!_
 
 Email - jack@jackgames.net
 

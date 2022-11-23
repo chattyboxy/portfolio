@@ -27,7 +27,7 @@ _One of the main things I like doing in Moderation for online communities. Here 
 
 ### Wardy's Discord Server:
 
-This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 15,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
+This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 14,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
 
 ### HoaxMC:
 
@@ -55,13 +55,13 @@ This server belongs to my friend Emma. With over 700 members, it is an active se
 _I also enjoy coding Discord Bots in the Discord.py Rewrite language. Here are some:_
 
 
-### Wardy Bot:
-
-The biggest server that one of my custom coded bots is in, is this one. When I first joined Wardy's Server, it was as a bot developer, as I was asked about a custom bot by one of the admins at the server. I made the custom bot, and it's since then that I joined the staff team, eventually reaching administrator. I still actively support, and host, this bot. It includes features such as: automatically deleting and banning for unsafe phising links; sending a DM to user's with answers to commonly asked questions if it detects key words in their message; a levelling system + level roles; and more! You can check out Wardy's Server [here](https://discord.gg/Zn7T36EKK5)
-
 ### Jack's Bot:
 
 The custom bot I coded for my server. It has features such as: a currency system, where users can earn coins via commands such as /work and /allowance (I implement slash commands into the bot), and these coins can be used to purchase coloured roles in the /shop; a ticket system for staff, which includes ticket claiming, making tickets admin-only, ticket transcripts, and more; a suggestion system; mutes and bans for staff; plus more! You can check it out [here](https://discord.gg/2thPqQWJsR)
+
+### Wardy Bot:
+
+The biggest server that one of my custom coded bots is in, is this one. When I first joined Wardy's Server, it was as a bot developer, as I was asked about a custom bot by one of the admins at the server. I made the custom bot, and it's since then that I joined the staff team, eventually reaching administrator. I still actively support, and host, this bot. It includes features such as: automatically deleting and banning for unsafe phising links; sending a DM to user's with answers to commonly asked questions if it detects key words in their message; a levelling system + level roles; and more! You can check out Wardy's Server [here](https://discord.gg/Zn7T36EKK5)
 
 ### Ez Tickets:
 
@@ -92,11 +92,11 @@ I generally upload videos from Hypixel Skyblock, such as explaining updates, cha
 
 ### Upload Schedule:
 
-I upload about once every few months.
+I upload about a few times per year. I also live stream!
 
 ### Stats:
 
-I currently have 600+ subscribers, 100,000+ views accross the whole channel, 1,900+ watch hours from viewers, and 420,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
+I currently have 600+ subscribers, 110,000+ views accross the whole channel, 1,900+ watch hours from viewers, and 500,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
 
 ## Summary:
 
